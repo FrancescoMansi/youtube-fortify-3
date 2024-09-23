@@ -1,8 +1,8 @@
-## Laravel Fortify Mastery - Parte 1
+## Laravel Fortify Mastery - Parte 3
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=8i1OUXaFyyA" target="_blank">
-        <img src="public/cover2.png"  alt="Laravel Logo">
+        <img src="public/cover3.png"  alt="Laravel Logo">
     </a>
 </p>
 
@@ -12,9 +12,9 @@
 Per iniziare, clona la repository del progetto ed entra nella cartella appena creata:
 
 ```bash
-git clone git@github.com:FrancescoMansi/youtube-fortify-1.git
+git clone git@github.com:FrancescoMansi/youtube-fortify-3.git
 
-cd youtube-fortify-1
+cd youtube-fortify-3
 ```
 
 Successivamente, installa le dipendenze necessarie:
